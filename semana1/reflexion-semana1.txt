@@ -1,0 +1,15 @@
+Reflexión — Semana 1
+
+El uso responsable de la información en internet, la participación ciudadana y la
+organización del trabajo técnico con herramientas como Git están profundamente
+relacionados, porque los tres exigen disciplina, responsabilidad y pensamiento
+ordenado. Cuando una persona verifica la información antes de compartirla, actúa
+como un ciudadano digital consciente que cuida la calidad del conocimiento que
+circula en la comunidad. Esa misma actitud crítica y metódica es la que se necesita
+al organizar un proyecto con Git: registrar cada cambio, documentar el proceso y
+mantener un historial claro de lo que se ha hecho. Así como un ciudadano responsable
+no difunde noticias falsas, un desarrollador responsable no sube código sin revisar
+ni documenta mal su trabajo. Git, en ese sentido, funciona como una memoria colectiva
+del trabajo técnico, del mismo modo que una comunidad bien informada construye una
+memoria colectiva confiable. En conclusión, tanto en la vida digital ciudadana como
+en el trabajo técnico, la clave está en actuar con orden, verificación y ética.
