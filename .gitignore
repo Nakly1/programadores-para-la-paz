@@ -1,9 +1,8 @@
-# Carpetas locales del editor
-.claude/
+# Carpetas de configuración de editores
 .vscode/
 .idea/
 
-# Archivos del sistema
+# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
 desktop.ini
