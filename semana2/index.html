@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario Participa - Mi Comunidad de Cartagena</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <main>
+    <section class="contenedor" aria-labelledby="titulo-formulario">
+      <h1 id="titulo-formulario">Formulario Participa</h1>
+
+      <p class="presentacion">
+        Bienvenido y bienvenida. Este es un espacio de la comunidad para escuchar
+        tus propuestas, ideas y necesidades sobre nuestro barrio en Cartagena.
+        Tu voz nos ayuda a construir soluciones colectivas y pacíficas.
+      </p>
+
+      <p class="aviso-datos">
+        Tu información será tratada con respeto y se usará únicamente para fines
+        de participación y organización comunitaria. No será compartida con
+        terceros ni utilizada con fines comerciales. Solo los campos marcados
+        con asterisco (<span class="obligatorio">*</span>) son obligatorios.
+      </p>
+
+      <form action="#" method="post" novalidate>
+        <div class="campo">
+          <label for="nombre">Nombre <span class="obligatorio" aria-hidden="true">*</span></label>
+          <input
+            type="text"
+            id="nombre"
+            name="nombre"
+            placeholder="Escribe tu nombre o como prefieras que te llamemos"
+            required
+            aria-required="true"
+            autocomplete="name">
+          <small class="ayuda">Puede ser tu nombre, un apodo o seudónimo.</small>
+        </div>
+
+        <div class="campo">
+          <label for="propuesta">Propuesta o mensaje <span class="obligatorio" aria-hidden="true">*</span></label>
+          <textarea
+            id="propuesta"
+            name="propuesta"
+            placeholder="Cuéntanos tu propuesta para la comunidad: qué problema observas, a quién afecta y qué solución imaginas."
+            required
+            aria-required="true"
+            rows="6"></textarea>
+          <small class="ayuda">Escribe con tus propias palabras. No necesitas usar lenguaje técnico.</small>
+        </div>
+
+        <div class="campo">
+          <label for="contacto">Correo o teléfono de contacto (opcional)</label>
+          <input
+            type="text"
+            id="contacto"
+            name="contacto"
+            placeholder="Ejemplo: 300 000 0000 o nombre@correo.com"
+            autocomplete="off">
+          <small class="ayuda">Solo si quieres que te contactemos para hacer seguimiento. Puedes dejarlo vacío.</small>
+        </div>
+
+        <div class="campo campo-consentimiento">
+          <label class="etiqueta-consentimiento">
+            <input type="checkbox" name="consentimiento" id="consentimiento" required aria-required="true">
+            <span>
+              He leído el aviso y autorizo de forma libre que mi información sea
+              usada únicamente para fines de participación comunitaria, conforme
+              a la Ley 1581 de 2012 de Protección de Datos.
+            </span>
+          </label>
+        </div>
+
+        <button type="submit" class="boton-enviar">Enviar mi participación</button>
+      </form>
+
+      <p class="pie-pagina">
+        Si tienes dudas o necesitas ayuda para llenar este formulario, puedes
+        pedir apoyo a un facilitador de la comunidad.
+      </p>
+    </section>
+  </main>
+
+</body>
+</html>

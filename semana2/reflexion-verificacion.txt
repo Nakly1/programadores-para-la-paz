@@ -1,0 +1,33 @@
+Reflexión de verificación responsable
+
+Nombre del estudiante: Nakly Joel Contreras Vergara
+Fecha: 2026-04-27
+Nombre de la rama: NaklyJoel_ContrerasVergara
+
+Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
+
+1. ¿Por qué no se debe compartir cualquier información sin verificar?
+2. ¿Cómo ayuda la verificación responsable a proteger a una comunidad?
+3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
+4. ¿Qué relación tiene el formulario "Participa" con la participación
+   ciudadana?
+
+Respuesta:
+Compartir información sin verificarla es peligroso porque una sola noticia
+falsa puede generar miedo, dividir a un barrio o poner en riesgo a personas
+inocentes; en territorios como Cartagena, donde aún se reconstruyen vínculos
+de confianza, un rumor puede deshacer años de trabajo comunitario. La
+verificación responsable protege a la comunidad porque obliga a contrastar
+fuentes, escuchar a quienes están directamente afectados y separar el dato
+del prejuicio antes de difundirlo. La accesibilidad también es inclusión
+digital, porque de poco sirve tener herramientas tecnológicas si una persona
+mayor, alguien con discapacidad visual o un vecino que no leyó muchos años
+no las puede usar; un formulario claro, con buen contraste y lenguaje
+sencillo abre la puerta a todas las voces, no solo a las que ya saben
+moverse en internet. Por eso el formulario "Participa" es tan importante:
+no es solo un campo de texto, es una manera concreta de practicar la
+participación ciudadana, donde la comunidad propone, el barrio se escucha
+a sí mismo y los datos se usan con respeto. Como futuro programador para la
+paz entiendo que cada línea de código que escribo puede invitar o excluir,
+y por eso elijo construir herramientas que verifiquen, incluyan y cuiden a
+la gente.

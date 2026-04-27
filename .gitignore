@@ -1,0 +1,9 @@
+# Carpetas locales del editor
+.claude/
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
