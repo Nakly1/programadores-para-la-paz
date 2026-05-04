@@ -1,0 +1,10 @@
+Para mí saber usar la terminal es algo que cambia la forma de trabajar como desarrollador,
+porque uno deja de depender tanto del mouse y de andar abriendo carpetas a lo loco,
+y empieza a moverse mucho más rápido entre los archivos del proyecto,
+con solo escribir un par de comandos ya estoy parado donde necesito estar,
+también ayuda a entender qué pasa por debajo cuando uno crea, mueve o borra cosas,
+porque la terminal no esconde nada, te muestra el camino tal cual,
+otra cosa buena es que es casi igual en cualquier sistema, así que lo aprendido sirve siempre,
+además al usar git todo se vuelve más natural cuando ya manejas comandos básicos,
+en general me parece que es una herramienta que da orden, control y rapidez,
+y por eso vale la pena agarrarle confianza desde el inicio del camino.
