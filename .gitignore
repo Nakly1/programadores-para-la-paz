@@ -1,7 +1,6 @@
 # Carpetas de configuración de editores
 .vscode/
 .idea/
-.claude/
 
 # Archivos del sistema operativo
 .DS_Store

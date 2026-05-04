@@ -1,0 +1,10 @@
+Llevar un registro de cambios con Git me parece clave en cualquier proyecto de software,
+porque el código nunca queda quieto, siempre se está moviendo, arreglando o mejorando,
+y sin un control de versiones uno termina perdiéndose entre archivos repetidos y carpetas de respaldo,
+con Git en cambio cada cambio queda guardado con su mensaje y su autor,
+si algo se rompe se puede volver atrás sin drama y sin perder horas de trabajo,
+también ayuda mucho cuando varios trabajamos sobre lo mismo, porque cada quien aporta sin pisar al otro,
+además da una trazabilidad clara, se sabe quién hizo qué y por qué lo hizo,
+eso es vital cuando aparece un bug y toca rastrear desde dónde viene,
+en mi caso siento que es como una red de seguridad que me da confianza al programar,
+y por eso me parece que aprenderlo desde el inicio vale totalmente la pena.
