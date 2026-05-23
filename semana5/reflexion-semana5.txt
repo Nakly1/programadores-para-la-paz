@@ -1,0 +1,9 @@
+Las APIs (Interfaces de Programación de Aplicaciones) actúan como puentes de comunicación estandarizados que permiten conectar diferentes aplicaciones de forma eficiente.
+En una comunidad, esto facilita la centralización de datos, permitiendo que reportes de diversos canales (como una app o web) lleguen a un único servidor.
+Además, las APIs permiten estructurar y validar la información antes de guardarla, evitando el desorden de datos incompletos o en formatos incompatibles.
+También permiten automatizar procesos, como enviar alertas inmediatas a las autoridades locales o a los teléfonos de los vecinos ante una emergencia.
+De igual forma, facilitan la integración de servicios útiles, como mapas para geolocalizar un reporte o servicios de mensajería para difundir novedades.
+Gracias a las APIs, los desarrolladores de la comunidad pueden crear nuevas herramientas de manera segura consumiendo una única fuente de información.
+Esto promueve la transparencia, ya que los ciudadanos pueden realizar consultas en tiempo real sobre el estado y avance de las gestiones comunitarias.
+En conclusión, las APIs proveen la estructura técnica necesaria para organizar, canalizar y accionar la información colectiva de forma efectiva.
+De esta manera, se transforma la participación ciudadana en un ecosistema de colaboración tecnológica que es activo, ordenado y sobre todo escalable.

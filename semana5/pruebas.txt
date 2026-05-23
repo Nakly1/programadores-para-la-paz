@@ -1,0 +1,10 @@
+Pruebas de las rutas en el navegador:
+
+1. http://localhost:3000
+   Ocurre: El servidor responde con el texto "Servidor activo". Es la ruta raíz (/) del servidor que confirma que está encendido y escuchando peticiones.
+
+2. http://localhost:3000/saludo
+   Ocurre: El servidor responde con el texto "Hola comunidad". Es una ruta estática (/saludo) que devuelve un mensaje fijo.
+
+3. http://localhost:3000/mensaje/juan
+   Ocurre: El servidor responde con el texto "Hola juan". Es una ruta dinámica (/mensaje/:nombre) que toma el parámetro ':nombre' de la URL (en este caso 'juan') y lo muestra dinámicamente en el mensaje de respuesta.

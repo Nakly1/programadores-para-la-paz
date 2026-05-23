@@ -1,0 +1,11 @@
+Conceptos de API - Ruta POST /reporte:
+
+1. ¿Qué hace esta ruta?
+La ruta POST /reporte recibe información enviada por el cliente en el cuerpo de la solicitud (request body) en formato JSON (específicamente espera un objeto con la propiedad "mensaje"). Posteriormente, procesa esta información y responde con un objeto JSON que contiene un estado indicando que el reporte fue recibido correctamente ("estado": "Reporte recibido") y el mensaje original enviado por el cliente.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria, esta ruta podría servir para que los ciudadanos o miembros de la comunidad envíen reportes, quejas, sugerencias o alertas en tiempo real sobre incidentes en su entorno. Por ejemplo, se podría utilizar para:
+- Reportar problemas de infraestructura pública (baches en la vía, fallas en el alumbrado público, tuberías rotas).
+- Enviar alertas de seguridad o emergencias comunitarias.
+- Registrar sugerencias o solicitudes de asistencia a la junta de acción comunal o líderes locales.
+De esta manera, el servidor puede recibir estos reportes, almacenarlos en una base de datos y permitir que los administradores de la comunidad los gestionen y solucionen.
