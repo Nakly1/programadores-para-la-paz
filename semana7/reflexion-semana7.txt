@@ -1,0 +1,5 @@
+Reflexion de la semana
+
+Es muy importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnologica, porque asi la informacion deja de perderse en mensajes sueltos y queda guardada de forma ordenada en un solo lugar, cuando un ciudadano registra un reporte con su tipo y su descripcion, cualquier persona encargada puede consultarlo despues y darle seguimiento,
+Tener una ruta para guardar datos y otra para consultarlos permite que la plataforma funcione como un sistema real, donde la comunidad aporta informacion y las autoridades pueden revisarla cuando la necesiten, esto hace que los problemas se atiendan mas rapido y que ninguno quede olvidado,
+Ademas registrar y consultar la informacion de manera estructurada ayuda a organizar los reportes por tipo o por zona, facilita las estadisticas y mejora la toma de decisiones, gracias a herramientas como Express y el manejo de arrays podemos empezar a construir servicios utiles que escuchan y responden a las necesidades reales de las personas,

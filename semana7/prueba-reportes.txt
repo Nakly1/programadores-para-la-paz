@@ -1,0 +1,30 @@
+Prueba de las rutas de reportes
+
+Primero envie una peticion POST a la direccion:
+http://localhost:3000/reportes
+
+Use Thunder Client en Visual Studio Code con este JSON en el body:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor toma los datos con req.body, crea un objeto con un id automatico y lo guarda dentro del array reportes, luego me devuelve un mensaje de confirmacion con el reporte registrado,
+
+Despues consulte la ruta GET en la misma direccion:
+http://localhost:3000/reportes
+
+Cuando consulto los reportes el servidor me responde con la lista completa que tiene guardada en memoria, en este caso aparece el reporte que acabo de registrar dentro de un array,
+
+Respuesta esperada al consultar GET /reportes:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Cada vez que agrego un nuevo reporte con POST, la lista crece y al consultar con GET aparecen todos los reportes guardados, hay que recordar que si apago el servidor la lista se vacia porque los datos estan en memoria y no en una base de datos,
