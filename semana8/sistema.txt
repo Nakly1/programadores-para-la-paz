@@ -1,0 +1,10 @@
+Información del sistema
+
+Comando: uname -a
+Este comando muestra informacion sobre el sistema operativo y el kernel, por ejemplo el nombre del sistema, el nombre de la maquina, la version del kernel, la fecha de compilacion y el tipo de arquitectura del procesador, sirve para saber con que sistema estamos trabajando,
+
+Comando: whoami
+Este comando muestra el nombre del usuario con el que estamos conectados en ese momento en la terminal, sirve para confirmar con que cuenta estamos trabajando y que permisos podriamos tener,
+
+Por que es util conocer la informacion del sistema cuando se administra un servidor:
+Conocer la informacion del sistema es util porque al administrar un servidor necesitamos saber que sistema operativo y que version del kernel estamos usando para instalar los programas correctos y mantenerlos actualizados, tambien es importante saber con que usuario estamos trabajando para no ejecutar acciones peligrosas por error y para controlar los permisos, esta informacion ayuda a resolver problemas, mantener la seguridad y tomar mejores decisiones tecnicas,

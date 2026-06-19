@@ -1,0 +1,5 @@
+Reflexion de la semana
+
+La seguridad digital es muy importante para proteger las plataformas tecnologicas que usan las comunidades, porque en ellas se guarda informacion valiosa como datos personales, reportes y credenciales de los ciudadanos, si esa informacion no esta protegida puede ser robada, modificada o usada de forma indebida, y eso afecta la confianza de las personas en la plataforma,
+En los procesos participativos la confianza es clave, la gente solo comparte sus datos y sus reportes si siente que la plataforma es segura y cuida su informacion, por eso aplicar buenas practicas como usar contraseñas fuertes, conexiones seguras y limitar los accesos ayuda a que el servicio sea confiable,
+Ademas proteger los datos no es solo un tema tecnico, tambien es una responsabilidad etica y comunitaria, cuidar la informacion de las personas es respetar sus derechos, una plataforma comunitaria confiable necesita tecnologia funcional, seguridad basica y un manejo responsable de la informacion para servir de verdad a la comunidad,

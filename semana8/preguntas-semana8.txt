@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta: B, el software que administra el hardware y permite ejecutar programas
+
+Pregunta 2:
+Respuesta: A, Ubuntu
+
+Pregunta 3:
+Respuesta: B, una interfaz que permite ejecutar comandos directamente en el sistema
+
+Pregunta 4:
+Respuesta: B, usar contraseñas fuertes y proteger credenciales

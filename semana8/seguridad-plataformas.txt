@@ -1,0 +1,11 @@
+Buenas practicas de seguridad para una plataforma digital comunitaria
+
+1. No exponer datos personales de los usuarios, solo pedir la informacion necesaria y mantenerla protegida,
+
+2. Proteger las credenciales y contraseñas, guardarlas cifradas y nunca dejarlas en archivos publicos ni en el codigo,
+
+3. Usar conexiones seguras con HTTPS para que la informacion viaje cifrada entre el usuario y el servidor,
+
+4. Registrar los accesos y acciones importantes para poder revisar quien entro y detectar movimientos sospechosos,
+
+5. Limitar el acceso a la informacion sensible, dando permisos solo a las personas que realmente lo necesitan segun su rol,
