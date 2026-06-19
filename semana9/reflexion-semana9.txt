@@ -1,0 +1,5 @@
+Reflexion de la semana
+
+Es muy importante que las plataformas tecnologicas que usan las comunidades funcionen de manera estable y segura en un servidor, porque de esa estabilidad depende que las personas puedan registrar reportes, consultar informacion y participar en cualquier momento, si el servidor se cae o falla, la comunidad pierde acceso al servicio y eso afecta la confianza en la plataforma,
+Un servidor estable responde siempre a las solicitudes de los usuarios y mantiene el servicio disponible de forma continua, para lograrlo es necesario monitorear la ejecucion, revisar los logs y atender los errores a tiempo, asi se pueden corregir problemas antes de que afecten a las personas,
+La seguridad tambien es clave, porque en estas plataformas se maneja informacion de los ciudadanos que debe estar protegida, un servidor seguro y bien documentado cuida los datos y evita accesos indebidos, en resumen una plataforma comunitaria confiable necesita servidores estables, seguros y bien cuidados para proteger la participacion y la confianza de la gente,

@@ -1,0 +1,22 @@
+Registro de ejecucion del servidor
+
+Que ocurre cuando ejecutas node server.js:
+Cuando ejecuto el comando node server.js, Node arranca la aplicacion y el servidor empieza a escuchar en el puerto 3000, el proceso se queda activo en la terminal esperando solicitudes y se mantiene funcionando mientras no lo detenga,
+
+Que mensaje aparece en la terminal:
+En la terminal aparece el mensaje:
+Servidor ejecutándose en puerto 3000
+
+Este mensaje confirma que el servidor arranco bien y que ya esta listo para recibir peticiones,
+
+Que sucede cuando visitas la ruta /estado:
+Cuando entro a la direccion http://localhost:3000/estado el servidor responde con un objeto en formato JSON que indica el estado del servicio, esto sirve para comprobar de forma rapida que la API esta funcionando,
+
+Respuesta esperada de /estado:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+Tambien si entro a la direccion http://localhost:3000 el servidor responde con el texto "Servidor activo y funcionando",
