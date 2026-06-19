@@ -1,0 +1,5 @@
+Reflexion de la semana
+
+Es muy importante que las plataformas tecnologicas puedan recibir reportes e informacion de los ciudadanos de forma estructurada, porque asi los datos llegan ordenados y son faciles de entender para el sistema, cuando un ciudadano envia un reporte en formato JSON, el servidor sabe exactamente que campos esperar y donde encontrar cada dato, esto evita errores y confusiones al momento de procesar la informacion,
+Trabajar con datos estructurados tambien permite que la informacion se pueda guardar, buscar y clasificar de manera mas rapida, por ejemplo una alcaldia podria organizar todas las incidencias por tipo o por zona y darles seguimiento sin perder ningun reporte, ademas facilita conectar la plataforma con otros servicios y aplicaciones,
+Gracias a herramientas como Express y el uso de req.body podemos construir servicios que escuchan a la comunidad y responden a sus necesidades, recibir la informacion de forma clara ayuda a tomar mejores decisiones y a brindar soluciones mas utiles para las personas,

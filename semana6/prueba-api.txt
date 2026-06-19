@@ -1,0 +1,23 @@
+Prueba de la ruta /registro
+
+Para probar el servidor envie una peticion POST a la direccion:
+http://localhost:3000/registro
+
+Use Thunder Client en Visual Studio Code y mande este JSON en el body:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor lee los datos con req.body y los devuelve dentro de una respuesta en formato JSON, agregando el estado para confirmar que la informacion llego correctamente,
+
+Respuesta que devuelve el servidor:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Como se observa, el servidor toma el nombre y el mensaje enviados por el cliente y los regresa junto con el estado "Datos recibidos", esto confirma que express.json() esta funcionando y que los datos se reciben sin problemas,
