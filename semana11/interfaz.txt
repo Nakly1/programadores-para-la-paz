@@ -1,0 +1,11 @@
+Interfaz basica de la plataforma
+
+La interfaz tendria una seccion para crear una nueva causa comunitaria con un formulario sencillo de titulo, descripcion y fecha, asi cualquier usuario identificado puede proponer una causa
+
+Debajo tendria una lista de causas disponibles para que los usuarios puedan leerlas, cada causa se muestra como una tarjeta con su titulo y su descripcion
+
+Cada causa tendria un boton de apoyar y al lado un contador que muestra cuantas personas ya la han apoyado, cuando alguien pulsa el boton el contador sube y queda registrado el apoyo
+
+La idea es que todo se vea claro y sencillo, sin pantallas complicadas, para que cualquier persona de la comunidad pueda usarla sin problema
+
+La interfaz no debe mostrar informacion privada de los usuarios, solo lo necesario para ver las causas y apoyarlas, los datos sensibles quedan protegidos por detras

@@ -1,0 +1,10 @@
+Reflexion semana 11
+
+Una plataforma que promueve la participacion ciudadana necesita una base de datos porque toda la informacion de causas, apoyos y usuarios tiene que quedar guardada de forma ordenada para poder consultarla despues
+Sin base de datos los registros se perderian y no habria manera de hacer seguimiento a lo que pasa en la comunidad
+La autenticacion es igual de importante porque no todo el mundo deberia poder hacer todo, con el login se sabe quien entra y que rol tiene, y asi se controla quien puede crear o modificar causas
+La proteccion de la informacion cierra el circulo, en una plataforma comunitaria hay datos de personas y esa privacidad se debe cuidar
+Si esa informacion quedara expuesta se pondria en riesgo a la gente que confia en el sistema
+Por eso nunca se muestran claves, documentos ni datos sensibles
+Al juntar base de datos, autenticacion y proteccion se logra una plataforma que guarda bien los datos, controla los accesos y mantiene la confianza de la comunidad
+Ademas queda trazabilidad de lo que se hace, que es clave para la transparencia y la veeduria

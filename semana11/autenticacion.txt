@@ -1,0 +1,7 @@
+Autenticacion en la plataforma
+
+El login es la funcion que permite identificar a un usuario antes de darle acceso a ciertas partes de la aplicacion, la persona entra con su usuario y su clave y el sistema confirma que si es quien dice ser
+Algunas rutas deben estar protegidas porque pueden tener informacion privada, registros internos o acciones como crear o borrar causas que no deberian estar disponibles para cualquiera
+Si todo quedara abierto cualquier persona podria modificar o ver cosas que no le corresponden y eso pone en riesgo a la comunidad
+Por eso solo los usuarios identificados y con el rol correcto pueden entrar a esas rutas
+No se deben exponer publicamente contrasenas, documentos de identidad, telefonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad, esa informacion se protege siempre
