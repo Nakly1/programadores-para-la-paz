@@ -1,6 +1,10 @@
 # Carpetas de configuración de editores
 .vscode/
 .idea/
+.claude/
+
+# Notas de trabajo
+NOTAS-ACTIVIDADES.md
 
 # Archivos del sistema operativo
 .DS_Store

@@ -1,0 +1,10 @@
+Reflexion semana 10
+
+Las metodologias agiles ayudan a organizar una comunidad porque en lugar de intentar hacer todo de una vez, se arma un backlog y se decide que es lo mas importante para empezar por ahi
+Trabajar en iteraciones pequenas permite ir mostrando resultados poco a poco y corregir rapido cuando algo no sirve, en vez de esperar hasta el final para darse cuenta de un error
+Eso encaja muy bien con la participacion ciudadana porque la gente ve avances reales y siente que su reporte si esta siendo atendido
+La automatizacion con n8n quita el trabajo repetitivo y hace que nadie tenga que estar revisando a mano si llego algo nuevo
+Canales como Telegram sirven para avisar a tiempo, coordinar al equipo y convocar cuando hace falta, todo en un lugar donde la comunidad ya esta acostumbrada a estar
+Al juntar organizacion, entregas pequenas y avisos automaticos se logra un proceso mas ordenado y con seguimiento
+Ademas queda trazabilidad de lo que se hace, que es clave para la veeduria y la transparencia
+Todo esto se puede hacer cuidando los datos, enviando solo avisos y nunca informacion sensible de las personas

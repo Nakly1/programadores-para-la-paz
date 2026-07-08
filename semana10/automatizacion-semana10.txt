@@ -1,0 +1,17 @@
+Automatizacion simple con n8n y Telegram
+
+Que evento activa el flujo
+
+El flujo se activa cuando se registra un nuevo reporte en el sistema, ese es el disparador, apenas entra un reporte nuevo n8n lo detecta y arranca la automatizacion
+
+Que mensaje se enviaria a Telegram
+
+Se enviaria un mensaje corto al canal del equipo avisando que entro algo nuevo, por ejemplo
+
+Nuevo reporte recibido, entrar al sistema para revisarlo
+
+La idea es que sea un aviso simple, solo para que el coordinador sepa que hay que revisar, sin meter datos del caso en el mensaje
+
+Que informacion no deberia enviarse por seguridad
+
+No se deben enviar nombres completos, documentos de identidad, direcciones, numeros de telefono, claves ni ningun dato sensible de la persona, tampoco tokens de Telegram ni claves de API, el mensaje solo avisa que hay un reporte nuevo, quien necesita ver el detalle entra al sistema donde el acceso esta controlado, asi la automatizacion es de practica y con informacion no sensible

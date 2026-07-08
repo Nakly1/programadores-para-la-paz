@@ -1,0 +1,18 @@
+Iteracion simple de la semana
+
+Que 2 tareas del backlog haria primero
+
+Primero haria la de registrar una incidencia y la de recibir la alerta en Telegram cuando entra un nuevo reporte
+
+Por que son las mas importantes
+
+Sin el registro de la incidencia no existe nada en el sistema, esa es la base de toda la solucion porque es donde queda la evidencia del caso, y la alerta en Telegram es la que permite que alguien del equipo se entere a tiempo y pueda revisar, entre esas dos ya se cubre la parte de dejar el reporte y la parte de avisar que llego, que es lo que le da vida al proceso
+
+Que significa para mi que una tarea este terminada
+
+Para mi una tarea esta terminada cuando cumple estos criterios
+
+Funciona, es decir hace lo que se pidio sin quedar a medias
+Fue probada, la corri de verdad y confirme que responde bien
+Quedo registrada en Git, con su commit para que quede la trazabilidad
+No expone datos sensibles, no muestra documentos, telefonos ni claves
