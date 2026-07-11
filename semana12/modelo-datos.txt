@@ -1,0 +1,15 @@
+Causa
+id, identifica cada causa de forma unica
+titulo, resume el tema principal de la peticion
+descripcion, explica la necesidad o problema comunitario
+fecha, indica cuando fue creada la causa
+
+La entidad Causa sirve para guardar la informacion principal de cada peticion que la comunidad quiere organizar
+
+Apoyo
+id, identifica cada apoyo de forma unica
+causa_id, relaciona el apoyo con la causa correspondiente
+nombre, registra quien apoya sin pedir mas datos de los necesarios
+fecha, indica cuando se realizo el apoyo
+
+La entidad Apoyo sirve para contar y organizar las personas que respaldan una causa

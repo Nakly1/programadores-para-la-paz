@@ -1,0 +1,13 @@
+Evento que activa la automatizacion
+Nueva causa registrada en la plataforma
+
+Mensaje que se envia
+Nueva causa creada en la plataforma, revisa el titulo y la fecha para hacer seguimiento comunitario
+
+Herramienta que se podria usar
+n8n conectado con Telegram para enviar una notificacion automatica al grupo encargado
+
+Informacion que no debe enviarse por seguridad
+No se deben enviar cedulas, telefonos, direcciones, correos, comentarios sensibles ni datos personales innecesarios
+
+Esta automatizacion ayuda a que la comunidad se entere rapido cuando aparece una nueva causa, pero cuidando la privacidad de las personas
